@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvertonZefino
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning System analisys and developement
+- 🌱 I’m currently learning System analisys and developement student, focused on continuous learning of programming languages and web technologies.
 - 📫 How to reach me : evertonzefino55@gmail.com
 
 <!---
